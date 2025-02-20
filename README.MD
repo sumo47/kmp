@@ -56,5 +56,11 @@ Notify(message = "Hello World!", duration = NotificationDuration.SHORT)
 - Works seamlessly on iOS and Android
 - Easy-to-use API for toast and alert notifications
 
-## License
-MIT License
+----------------------------------------------------------------------------------------------------
+# Navigation
+* composeMain - build -
+  - implementation("org.jetbrains.androidx.navigation:navigation-compose:2.8.0-alpha10")
+  - implementation("org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.0")
+
+
+
